@@ -1,1 +1,1 @@
-# RelightHuman
+# HumanRelighting
