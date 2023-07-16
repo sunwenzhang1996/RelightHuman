@@ -1,6 +1,6 @@
 # Neural Reconstruction of Relightable Human Model from Monocular Video
 
-> NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video  
+> Neural Reconstruction of Relightable Human Model from Monocular Video  
 > Wenzhang Sun, Yunlong Che, Huang Han, Yandong Guo  
 > ICCV 2023
 
